@@ -1,3 +1,6 @@
+####special commit log dosyalarını takip etme! demektir
+.log/
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
