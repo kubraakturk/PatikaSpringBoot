@@ -1,5 +1,6 @@
 ####special commit log dosyalarını takip etme! demektir
-.log/
+/log/
+
 
 HELP.md
 target/
